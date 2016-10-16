@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.0.js"></script>
+    <script src="jsonservice.js"></script>
+</head>
+<body>
+    <h1>Send Request</h1>
+    <script type="text/javascript">
+
+
+        $(document).ready(function ()
+        {
+
+            $("#btnSend").on("click", function (e)
+            {
+                console.log('teste');
+                var settings = {
+                    "async": true,
+                    "crossDomain": true,
+                    "url": "send.aspx",
+                    "method": "POST",
+                    "processData": false
+                }
+
+
+                $.ajax(settings).done(function (response)
+                {
+                    console.log(response);
+                });
+            });
+        });
+    </script>
+
+    <button id="btnSend">Test</button>
+</body>
+</html>

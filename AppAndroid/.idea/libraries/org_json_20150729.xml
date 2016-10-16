@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.json-20150729">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codeartisans/org.json/20150729/905fd4913dad17c17cf1f1a38cba40493ca1b9a4/org.json-20150729.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codeartisans/org.json/20150729/304744330aaf336739f45a068336b1501b05b202/org.json-20150729-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivanildo\.gradle\caches\modules-2\files-2.1\org.codeartisans\org.json\20150729\905fd4913dad17c17cf1f1a38cba40493ca1b9a4\org.json-20150729.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="905fd4913dad17c17cf1f1a38cba40493ca1b9a4">
+        <dex dex="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\pre-dexed\debug\org.json-20150729_0ef44ccf127a8d8ae49bd60fafebb8d827ded9bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivanildo\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\pre-dexed\debug\com.android.volley-2015.05.28_79b9541d9d725764fa7419d6fba5fad1c0b1c381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_892183d7976da5e810112bd7fe664adff16fa134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_69c99819c3e87f71038c2a9b07a780a51bbdc8ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_15d260b454b940a6ce510f17cb8100be36dd292f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_ecaf4ae7ea670740c530e80bd09a6207c6d8e75c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0897df2063d74b0fcb8aba33caff4f21e3f2b3ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivanildo\Documents\SDK_ANDROID\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_3632793ab10d5fde2ce8f12aeb72c058bee4faae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivanildo\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Ivanildo\Desktop\AppBus\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_e961f81f31a41d919f938901149bf1a9313fe32e.jar" />
+    </item>
+
+</items>
